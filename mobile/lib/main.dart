@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-const String baseUrl = 'http://10.0.2.2:8000';
+const String baseUrl = 'https://lm-dating-backend.onrender.com';
 
 void main() {
   runApp(const LMDatingApp());
